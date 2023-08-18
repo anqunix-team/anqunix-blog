@@ -1,0 +1,6 @@
+console.log(name, typeof name); // undef undef
+let name = null;
+console.log(name, typeof name); // null 
+
+
+
